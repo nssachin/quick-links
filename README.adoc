@@ -1,0 +1,24 @@
+== Quick Links
+
+Table
+
+.Application links
+[options="header,footer"]
+|=======================
+|#|Application      |Description
+|1    |https://chennaimetrowater.tn.gov.in/online_water_taxpayment.html[CMWSSB: Water Tax &amp; Charges Payment]|Online water tax payment in Chennai
+|2    |https://chennaimetrowater.in/login.html[Grievance Redressal System]     | Chennai water supply Grievance Redressal System
+|3    |https://alaithal-inaipu.chennaimetrowater.in/index.php[New Sewer connection]    |New Sewer connection booking
+|4    |https://chennaicorporation.gov.in/gcc/online-services/[Chennai Govt. online services]|All online servies provided by goverment
+|5    |https://tnpds.gov.in/home.xhtml[TN ration card] | Public Distribution System
+|6    |https://unifiedportal-mem.epfindia.gov.in/memberinterface/[UAN - EPF] | UAN - Employee Provident Fun
+|7    |https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html[NSDL - Online PAN service] | Online PAN application servies such as New PAN, changes or correction in existing PAN
+|8   |https://www.passportindia.gov.in/AppOnlineProject/welcomeLink#[Passport Seva]| Passport Seva service
+|9   |https://www.tnebnet.org/awp/login?locale=en[TANGEDCO]|TANGEDCO Online payment
+|10   |https://chennaicorporation.gov.in/gcc/online-services/birth-certificate/[Birth Certificate] | Birth ceritifcate online print service
+|11   |https://electoralsearch.in/[Voter Information]|ECI Voter information
+|12   |https://eaadhaar.uidai.gov.in/#/[Download Aadhaar]| Portal to download e-Aadhar card
+|13   |https://eportal.incometax.gov.in/iec/foservices/#/login[Income Tax portal] | Income Tax portal
+|14   |https://web.cdslindia.com/myeasi/Home/Login[CDSL login]|CSDL retail user login portal
+|15   |https://www.onlineservices.nsdl.com/paam/requestAndDownloadEPAN.html[PAN Download]|Download e-PAN card
+|=======================
